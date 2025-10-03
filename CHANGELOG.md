@@ -1,3 +1,7 @@
+## 0.36.1
+
+- **FIX**: Missing export of button size objects `ShadButtonSizeTheme` and `ShadButtonSizesTheme`
+
 ## 0.36.0
 
 - **BREAKING CHANGE**: Remove `iconData` from `ShadAlert`, use `icon` instead.
