@@ -9,6 +9,7 @@ export 'src/components/alert.dart';
 export 'src/components/avatar.dart';
 export 'src/components/badge.dart';
 export 'src/components/button.dart';
+export 'src/theme/components/button_sizes.dart';
 export 'src/components/calendar.dart';
 export 'src/components/card.dart';
 export 'src/components/checkbox.dart';
